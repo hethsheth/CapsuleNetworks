@@ -16,14 +16,14 @@ Use the weights for the 2 scripts as instructed in the <b>README inside the weig
 
 ---
 
-<b>Model architecture</b>(uses a Capsule network for learning the features and a Transposed convolutional network as a reconstruction and regularisation network)(1.0.5):
+<b>Model architecture</b>(uses a Capsule network for learning the features and a Transposed convolution network as a reconstruction and regularization network)(1.0.5):
 
 <b>Encoder</b>(Convolution + Primary Capsule + Digit Capsule layers)
 ![Encoder(1.0.5)](https://github.com/hethsheth/CapsuleNetworks/blob/master/Kannada-MNIST/images/capsnet.png)
 
 ---
 
-<b>Decoder/Reconstruction</b>(Transposed convolutional network)
+<b>Decoder/Reconstruction</b>(Transposed convolution network)
 
 ![Decoder/Reconstruction(1.0.5)](https://github.com/hethsheth/CapsuleNetworks/blob/master/Kannada-MNIST/images/decoder.png)
 
